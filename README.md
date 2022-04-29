@@ -28,7 +28,7 @@ A simple batch file that, when executed, will look like you are hacking somethin
 
 ### INSTALLATION :
 
-***Just download the file llah.bat or copy and paste the code***
+* Just download the file llah.bat or copy and paste the code.
 
 ## FEATURES :
 * [+] Look like a real Hacker!
